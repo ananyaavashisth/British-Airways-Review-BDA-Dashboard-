@@ -1,2 +1,3 @@
-# British-Airways-Review-BDA-Dashboard-
-An interactive Tableau dashboard analyzing British Airways customer reviews across metrics like comfort, food, and staff service. Users can filter by traveler type, date, and aircraft to gain insights through maps, charts, and trends—showcasing data visualization and storytelling skills.
+# Interactive Dashboard for Analyzing British Airways Customer Reviews Using Tableau
+## Project Objective
+To design and develop an interactive Tableau dashboard that visualizes British Airways customer reviews, enabling users to explore service quality metrics—such as comfort, food, entertainment, and staff service—through dynamic filters and geographic analysis to derive actionable business insights.
